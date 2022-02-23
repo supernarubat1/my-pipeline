@@ -43,7 +43,7 @@ jobs:
           app-settings-json: |
             [
               {
-                "name": "REACT_APP_API",
+                "name": "REACT_APP_ENPOINT_API_BACKEND",
                 "value": "https://my-backend.azurewebsites.net/api",
                 "slotSetting": false
               }
